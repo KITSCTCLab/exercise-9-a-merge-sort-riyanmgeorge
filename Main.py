@@ -1,7 +1,6 @@
 from typing import List
 
 def merge_sort(data) -> None:
-  # 
 
 
 # Do not change the following code
